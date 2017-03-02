@@ -1,0 +1,25 @@
+
+.panel-background{
+	background:#333333 ;
+	border-color: #333333;
+	color: #ffffff ;
+}
+
+.breadcrumb{
+	background: #333333;
+	color:#ffffff;
+	margin-top: 60px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+.breadcrumb a{
+	color:#333333;
+}
+
+.dash-box{
+	border-color: #333333; 
+}
+
+#main{
+	margin-left: 51px;
+}
