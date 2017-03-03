@@ -12,6 +12,8 @@
 	margin-bottom: 15px;
 	text-align: left;
 }
+
+/*Breadcrumb*/
 .breadcrumb a{
 	color:#333333;
 }
@@ -20,6 +22,32 @@
 	border-color: #333333; 
 }
 
+
 #main{
 	margin-left: 51px;
+}
+
+/*Table Margin*/
+.app{
+	padding-bottom: 10px;
+	margin-top: 80px;
+	margin-bottom: 15px;
+}
+
+.table-color-bg{
+	background-color: #99583D !important;
+	border-color: #333333 !important;
+	color: #ffffff !important;
+}
+
+ul
+{
+list-style-type: none;
+}
+.imgwrapper {
+   width: 30%;
+}
+.row .col-xs-2 .col-xs-6{
+	display:inline-block; 
+	float: none;
 }
